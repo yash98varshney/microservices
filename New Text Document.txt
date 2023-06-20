@@ -1,0 +1,8 @@
+user service 
+    port 9001
+
+/user/id
+
+
+contact service
+    port 9002
