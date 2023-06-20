@@ -10,7 +10,7 @@ import com.microservice.user_service.Entity.User;
 import com.microservice.user_service.Service.UserService;
 
 @RestController
-@RequestMapping(value = "/user/")
+@RequestMapping(value = "/user")
 public class UserController {
 
     @Autowired
